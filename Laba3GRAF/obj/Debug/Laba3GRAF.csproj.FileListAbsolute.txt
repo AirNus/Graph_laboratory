@@ -1,0 +1,8 @@
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\bin\Debug\Laba3GRAF.exe
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\bin\Debug\Laba3GRAF.pdb
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\obj\Debug\Laba3GRAF.csprojAssemblyReference.cache
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\obj\Debug\Laba3GRAF.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\obj\Debug\Laba3GRAF.exe
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\obj\Debug\Laba3GRAF.pdb
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\obj\Debug\Laba3GRAF.Form1.resources
+C:\Users\Айнур\source\repos\Laba3GRAF\Laba3GRAF\obj\Debug\Laba3GRAF.csproj.GenerateResource.cache
