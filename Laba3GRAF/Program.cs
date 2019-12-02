@@ -164,7 +164,7 @@ namespace Laba3GRAF
             int turn = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите название вершины,которую необходимо найти ");
             char goal = Convert.ToChar(Console.Read());                        
-            string path = @"C:\Users\Айнур\Desktop\ИиЭС\3Лаба\data.txt";
+            var path = System.IO.Path.GetFullPath(@"data.txt");      
             using (StreamReader streamReader = new StreamReader(path))
             {
                 string first_line;
