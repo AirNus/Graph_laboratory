@@ -7,8 +7,8 @@ using System.Text;
 namespace Laba3GRAF
 {
 
-     public class Search_width
-     {       
+     internal class Search_width
+     {        
         public void Search(char[,] matr_adjacency,int dimension,char goal)
         {
             List<char> open = new List<char>();
@@ -67,7 +67,7 @@ namespace Laba3GRAF
                 }            
         }
      }
-    public class Search_depth
+    internal class Search_depth
     {        
         public void Search(char[,] matr_adjacency,int dimension,char goal)
         {
@@ -175,7 +175,7 @@ namespace Laba3GRAF
                 }
                 catch(Exception)
                 {
-                    Console.WriteLine("Ошибка чтения файла(1)\nПервая строка должна содержать количество вершин без дополниельных знаков");
+                    Console.WriteLine("Ошибка чтения файла(1)\nПервая строка должна содержать количество вершин без дополнительных знаков");
                     Environment.Exit(1);
                 }
             }
