@@ -1,0 +1,6 @@
+C:\Users\Айнур\source\repos\Laba4SearchToGraph\Laba4SearchToGraph\bin\Debug\Laba4SearchToGraph.exe
+C:\Users\Айнур\source\repos\Laba4SearchToGraph\Laba4SearchToGraph\bin\Debug\Laba4SearchToGraph.pdb
+C:\Users\Айнур\source\repos\Laba4SearchToGraph\Laba4SearchToGraph\obj\Debug\Laba4SearchToGraph.csprojAssemblyReference.cache
+C:\Users\Айнур\source\repos\Laba4SearchToGraph\Laba4SearchToGraph\obj\Debug\Laba4SearchToGraph.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\source\repos\Laba4SearchToGraph\Laba4SearchToGraph\obj\Debug\Laba4SearchToGraph.exe
+C:\Users\Айнур\source\repos\Laba4SearchToGraph\Laba4SearchToGraph\obj\Debug\Laba4SearchToGraph.pdb
